@@ -4,4 +4,4 @@
 
 test to feature-a
 fix-b
-
+- feature-c
